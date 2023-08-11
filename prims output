@@ -1,0 +1,76 @@
+
+	Prim's Algorithm
+
+
+Enter Number of Nodes in The Graph:
+5
+
+Enter Number of Edges in The Graph:
+7
+
+Enter Edges and Weights:
+
+
+Enter Edges by V1 and V2:
+[Read the Graph From Starting Node 0]:
+0 1
+
+Enter Corresponding Weight:
+10
+
+Enter Edges by V1 and V2:
+[Read the Graph From Starting Node 0]:
+1 2
+
+Enter Corresponding Weight:
+1
+
+Enter Edges by V1 and V2:
+[Read the Graph From Starting Node 0]:
+2 3
+
+Enter Corresponding Weight:
+2
+
+Enter Edges by V1 and V2:
+[Read the Graph From Starting Node 0]:
+3 4
+
+Enter Corresponding Weight:
+3
+
+Enter Edges by V1 and V2:
+[Read the Graph From Starting Node 0]:
+4 0
+
+Enter Corresponding Weight:
+5
+
+Enter Edges by V1 and V2:
+[Read the Graph From Starting Node 0]:
+1 3
+
+Enter Corresponding Weight:
+6
+
+Enter Edges by V1 and V2:
+[Read the Graph From Starting Node 0]:
+4 2
+
+Enter Corresponding Weight:
+7
+
+
+The Minimal Spanning Tree Is:
+
+
+Edge[0,4]and Weight5
+
+Edge[3,4]and Weight3
+
+Edge[2,3]and Weight2
+
+Edge[1,2]and Weight1
+
+
+	Total Path Length Is = 11
